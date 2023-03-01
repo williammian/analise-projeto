@@ -1,0 +1,70 @@
+IREB-ismos
+
+Os requisitos são originados dos Stakeholders (partes interessadas).
+
+Os Stakeholders são aqueles que são impactados pelo
+resultado gerado pelos requisitos.
+
+Tudo aquilo que requer algum tipo de entrega da empresa,
+seja de produtos ou serviços, necessita estar apoiado em requisitos.
+
+O Engenheiro de Requisitos deve ser proativo na resolução de problemas.
+
+O Engenheiro de Requisitos deve conhecer e dominar a ER.
+
+Engenheiro de Requisitos não é um cargo, mas um papel
+que pode ser desempenhado por diferentes profissionais da área de sistemas.
+
+A Engenharia de Requisitos é adaptável a cada diferente tipo de situação e contexto.
+
+Os requisitos são um meio para atingir o fim e não o fim em si.
+
+ER é a satisfação dos desejos e necessidades dos stakeholders.
+
+O sucesso no desenvolvimento de sistemas é impossível sem uma base comum.
+
+Sistemas não podem ser compreendidos de forma isolada.
+
+Problema - Requisito - Solução:
+Trinca inevitavelmente entrelaçada
+
+Requisitos não validados são inúteis.
+
+A mudança nos requisitos não é um acidente, mas algo normal que ocorre constantemente.
+
+Mais do mesmo não é suficiente, é preciso inovar.
+
+Necessário trabalho disciplinado e sistemático, o que torna a ER indispensável.
+
+Requisitos bem elaborados geram economia de custos e de esforços.
+
+Quanto antes forem corrigidos os defeitos, ajudarão na redução de custos.
+
+A Engenharia de Requisitos pode trazer benefícios que se acumulam ao longo do tempo.
+
+O esforço investido dentro da Engenharia de Requisitos será inversamente proporcional
+ao risco que você decidiu assumir.
+
+Uso de um processo com pequenos ciclos de feedback.
+
+Uma boa Engenharia de Requisitos não atende somente as necessidades e desejos dos
+stakeholders, mas busca maneiras de deixá-los satisfeitos, empolgados e seguros.
+
+Os produtos de trabalho devem ser consistentes.
+
+Os produtos de trabalho devem levar em consideração o objetivo final.
+
+Sempre buscar minimizar a redundância de informações.
+
+Engenharia de Requisitos não é um processo linear.
+
+Os requisitos funcionais são importantes, porém, precisa haver atenção para todos
+os requisitos, como por exemplo de qualidade e restrições.
+
+O envolvimento dos stakeholders corretos são essenciais para que os requisitos
+do sistema sejam levantados de forma bem sucedida.
+
+
+
+
+
